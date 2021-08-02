@@ -2,71 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a87b10a-af43-444f-b110-c920d8c7bbb9" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/_includes/layouts/resources.njk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/header-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/trade1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/trade2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/trade3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/trade1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/trade2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/trade3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report.20210801.232937.6084.0.001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uploads/logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uploads/trade1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uploads/trade2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uploads/trade3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jamiicms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jamiicms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/layouts/base.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/base.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/layouts/posts.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/layouts/posts.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/_site/images/uploads/logo.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/trade1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/images/uploads/trade1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/trade2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/images/uploads/trade2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/trade3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/images/uploads/trade3.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +46,6 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jammieleventy" />
@@ -105,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\jamiicms\images\uploads" />
       <recent name="C:\jamiicms\images" />
     </key>
   </component>
@@ -117,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627834757199</updated>
       <workItem from="1627834758208" duration="1031000" />
-      <workItem from="1627836155538" duration="20042000" />
+      <workItem from="1627836155538" duration="23202000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1627853836654</created>
@@ -126,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627853836654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1627860535646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627860535646</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,13 +108,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1627855793486" />
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1627853878864">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2" timestamp="1627860570162">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1627853878864" />
-    <state x="85" y="15" width="703" height="698" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1627853588132">
+    <state x="274" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1627860570162" />
+    <state x="85" y="15" width="703" height="698" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1627860561856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="85" y="15" width="703" height="698" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1627853588132" />
+    <state x="85" y="15" width="703" height="698" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1627860561856" />
   </component>
 </project>
